@@ -1,1 +1,1 @@
-console.error("otro commit2222");
+console.error("otro commit");
