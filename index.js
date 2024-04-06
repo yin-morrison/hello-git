@@ -1,2 +1,1 @@
-console.log("hello git");
-console.log("mi primer repositorio");
+console.log("hello github");
